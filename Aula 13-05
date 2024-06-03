@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt br">
+	<head>
+		<meta charset="UTF-8">
+	<title>
+	</title>
+		<style>
+			#Ceemti{
+				font-weight: bold;
+				font-size: 14px;
+				text-align: center;
+		}
+			img{
+				margin-left: 620px;
+		}
+			#materia{
+				font-weight: bold;
+				font-size: 20px;
+				text-align: center;
+		}
+			#imagem{
+				height: 450px;
+				weight: 550px;
+				margin-left: 720px;	
+		}
+			#criadores{
+				background-color: pink
+		}
+			footer{
+				font-size: 12px;
+				text-align: center;	
+		}
+		</style>
+	</head>
+	<body>
+		<header>
+			<h1 id="Ceemti"> CEEMTI Baixo Guandu</h1>
+			<a href="Pagina HTML escola (PWD).html"> PWD </a>
+			<a href="Pagina HTML escola (DG).html"> DG </a>
+			<img src="Logo Escola.png" alt="Logo da Escola">
+			<href 
+		</header>
+		<main>
+			<h2 id="materia"> Análise e Projeto de Sistema (APS)</h2>
+			<img src="Bahia.jpg" id="imagem" alt="imagem escolhida">
+		</main>
+		<footer>
+			<h2 id="criadores"> Kayke e Lemos </h2>
+		</footer>
+	</body>
+</html>
